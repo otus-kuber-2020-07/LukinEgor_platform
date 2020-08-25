@@ -9,5 +9,5 @@ subjects:
   namespace: dev
 roleRef:
   kind: Role
-  name: admin-access
+  name: admin
   apiGroup: rbac.authorization.k8s.io
