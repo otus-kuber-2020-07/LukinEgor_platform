@@ -1,0 +1,5 @@
+redisServiceName: hipster-shop-redis-headless
+redis:
+  usePassword: false
+  cluster:
+    enabled: false
