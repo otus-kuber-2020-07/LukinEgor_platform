@@ -1,0 +1,4 @@
+dependencies:
+  - name: redis
+    version: 10.7.16
+    repository: "https://charts.bitnami.com/bitnami"
